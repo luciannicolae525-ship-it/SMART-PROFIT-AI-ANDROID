@@ -1,6 +1,5 @@
 plugins {
     id 'com.android.application'
-}  id 'com.android.application'
 }
 
 android {
@@ -15,3 +14,4 @@ android {
         versionName '1.0'
     }
 }
+
